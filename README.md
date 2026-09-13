@@ -62,8 +62,8 @@ I am a Mechanical Engineer specializing in **Mechatronics Systems**. My expertis
 #### 🤖 Autonomous Navigation Robot
 * **Overview:** Programmed an Arduino-based robot to navigate a predefined course and perform specific tasks.
 * **Tech Stack:** C++, Arduino, Sensors, Mechatronics.
-* **Key Achievement:** Designed a custom Arduino hat/PCB and integrated all essential functions for fully autonomous robotic operation.
-
+* **Key Achievement:** Designed a custom Arduino hat/PCB and integrated all essential functions for fully autonomous robotic operation.  
+[View the Private Repo]((https://github.com/dgruzwalski/Automated_Disaster_Relief_Delivery_Robot))
 ---
 
 ### 📚 Complete Publications & Proceedings
