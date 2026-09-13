@@ -14,7 +14,6 @@ I am a Mechanical Engineer specializing in **Mechatronics Systems**. My expertis
 ### ⚡ Mechatronics, Hardware & Robotics
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD100?style=for-the-badge&logo=ni&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-41B883?style=for-the-badge&logo=microchip&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
