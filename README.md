@@ -34,7 +34,7 @@ I am a Mechanical Engineer specializing in **Mechatronics Systems**. My expertis
     [![DOI](https://img.shields.io/badge/DOI-10.4271%2F2025--01--8520-blue?style=flat-square&logo=doi)](https://doi.org/10.4271/2025-01-8520)
   * 📄 *A Sensitivity Study of Frequency Response Method for Setting Bearing Preload to Manufacturing and Design Variation*  
     [![DOI](https://img.shields.io/badge/DOI-10.4271%2F2025--01--8518-blue?style=flat-square&logo=doi)](https://doi.org/10.4271/2025-01-8518)
-* **Private Repository:** [Dissertation_Code]([http(https://github.com/dgruzwalski/Dissertation_code)) *(Access restricted)*
+* **Private Repository:** [Dissertation_Code](https://github.com/dgruzwalski/Dissertation_code) *(Access restricted)*
 ---
 
 #### 🔋 Autonomous EV Battery Disassembly & Sorting
